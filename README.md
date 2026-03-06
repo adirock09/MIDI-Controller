@@ -28,6 +28,7 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 <br><img width="799" height="659" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/14ac4264-e564-4d8c-aff8-e7c4964bbb09" />
 
 <br>
+
 ## 3d Render
 <br><img width="1321" height="618" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/3fe18be8-4bbe-4645-acb5-c49d16ec5540" />
 <br><img width="1392" height="685" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/2dccde4c-7829-49f1-9e9a-af9bc2dd182e" />
