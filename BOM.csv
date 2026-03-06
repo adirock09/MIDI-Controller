@@ -1,0 +1,11 @@
+Index,Component,Part Number,Source,Quantity,Unit Price (USD),Total Price (USD),Notes
+1,Cherry MX Mechanical Keyswitch,MX2A-HC1B,DigiKey,40,1.95,78.00,
+2,Keycaps Set,MX Compatible Keycaps,DigiKey,1,25.00,25.00,For 40 keys
+3,Signal Diode,1N4148TR,DigiKey,40,0.041,1.64,
+4,Raspberry Pi Pico,SC0917,DigiKey,1,5.00,5.00,
+5,Slide Potentiometer 10K,PTL60-15R0-103B2,DigiKey,3,2.65,7.95,
+6,PCB Fabrication,JLCPCB,JLCPCB,1,15.80,15.80,
+7,PCB Shipping,JLCPCB Shipping,JLCPCB,1,17.77,17.77,
+8,M3 Screws,M3x16mm,Existing,4,0,0,Already owned
+9,M3 Heat-set Inserts,M3 Heatset,Existing,4,0,0,Already owned
+10,Total,,,,,$151.16,
