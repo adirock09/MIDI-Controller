@@ -20,7 +20,7 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 | 9 | M3 Heat-set Inserts | M3 Heatset | Existing | 4 | 0 | 0 | Already have |
 
 ### Total Project Cost
-**$151.16**
+**$84.91**
 
 ## Schematic & PCB
 <br><img width="927" height="444" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/bd7c09c0-922e-4be6-a7af-7374691b880a" />
