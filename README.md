@@ -11,7 +11,7 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 |------|-----------|-------------|--------|----------|------------------|------------------|------|
 | 1 | Cherry MX Mechanical Keyswitch | MX2A-HC1B | meckeys.com | 4 (pack of 10) | 5 | 20 | |
 | 2 | Keycaps Set | MX Compatible Keycaps | meckeys.com | 8 (pack of 5) | 1 | 8 | For 40 keys |
-| 3 | Signal Diode | 1N4148TR | https://makerbazar.in/ | 4 (pack of 10) | 0.015 | 0.6 | |
+| 3 | Signal Diode | 1N4148TR | https://makerbazar.in/ | 4 (pack of 10) | 0.02 | 0.8 | |
 | 4 | Raspberry Pi Pico | SC0917 | https://makerbazar.in/ | 1 | 4.5 | 4.5 | |
 | 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | https://makerbazar.in/ | 3 | 1.1 | 3.3 | |
 | 6 | PCB Fabrication | JLCPCB | JLCPCB | 1 | 26 |26 | |
@@ -20,7 +20,7 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 | 9 | M3 Heat-set Inserts | M3 Heatset | Existing | 4 | 0 | 0 | Already have |
 
 ### Total Project Cost
-**$84.91**
+**$86.91**
 
 ## Schematic & PCB
 <br><img width="927" height="444" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/bd7c09c0-922e-4be6-a7af-7374691b880a" />
