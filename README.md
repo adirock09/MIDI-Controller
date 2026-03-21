@@ -9,13 +9,13 @@ PCB made in Kicad and modeling done in Fusion 360. Firmware is written in circui
 
 | Index | Component | Part Number | Source | Quantity | Unit Price (USD) | Total Price (USD) | Notes |
 |------|-----------|-------------|--------|----------|------------------|------------------|------|
-| 1 | Cherry MX Mechanical Keyswitch | MX2A-HC1B | DigiKey | 40 | 1.95 | 78.00 | |
-| 2 | Keycaps Set | MX Compatible Keycaps | DigiKey | 1 | 25.00 | 25.00 | For 40 keys |
-| 3 | Signal Diode | 1N4148TR | DigiKey | 40 | 0.041 | 1.64 | |
-| 4 | Raspberry Pi Pico | SC0917 | DigiKey | 1 | 5.00 | 5.00 | |
-| 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | DigiKey | 3 | 2.65 | 7.95 | |
-| 6 | PCB Fabrication | JLCPCB | JLCPCB | 1 | 15.80 | 15.80 | |
-| 7 | PCB Shipping | JLCPCB Shipping | JLCPCB | 1 | 17.77 | 17.77 | |
+| 1 | Cherry MX Mechanical Keyswitch | MX2A-HC1B | meckeys.com | 4 (pack of 10) | 5 | 20 | |
+| 2 | Keycaps Set | MX Compatible Keycaps | meckeys.com | 8 (pack of 5) | 1 | 8 | For 40 keys |
+| 3 | Signal Diode | 1N4148TR | https://makerbazar.in/ | 4 (pack of 10) | 0.015 | 0.6 | |
+| 4 | Raspberry Pi Pico | SC0917 | https://makerbazar.in/ | 1 | 4.5 | 4.5 | |
+| 5 | Slide Potentiometer 10K | PTL60-15R0-103B2 | https://makerbazar.in/ | 3 | 1.1 | 3.3 | |
+| 6 | PCB Fabrication | JLCPCB | JLCPCB | 1 | 26 |26 | |
+| 7 | PCB Shipping | JLCPCB Shipping | JLCPCB | 1 | 22.51 | 22.51 | |
 | 8 | M3 Screws | M3x16mm | Existing | 4 | 0 | 0 | Already have |
 | 9 | M3 Heat-set Inserts | M3 Heatset | Existing | 4 | 0 | 0 | Already have |
 
